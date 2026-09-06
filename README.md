@@ -24,7 +24,7 @@ Data analysis projects. Each one links to its own repo with the full notebook an
 
 | Project | Question | Key finding | Tools |
 | --- | --- | --- | --- |
-| [Olist Delivery Promise Optimization](https://github.com/doniyor117/olist-marketplace-analysis/tree/main/01-delivery-estimates) | Should Olist shorten the delivery date it shows at checkout? | Promises run 12 days ahead of actual delivery, yet 7.6% still arrive late. A quantile model cuts ~3 days off the promise while lowering the late rate to 3.44%, against Olist's own 4.5%. | Python, pandas, LightGBM, Optuna |
+| [Olist Delivery Promise Optimization](https://github.com/doniyor117/olist-marketplace-analysis/tree/main/01-delivery-estimates) | Should Olist shorten the delivery date it shows at checkout? | Promises run 12 days ahead of actual delivery, yet 7.6% still arrive late. A quantile model cuts ~3 days off the promise on the test dataset while lowering the late rate to 3.44%, against Olist's own 4.5%. | Python, pandas, LightGBM, Optuna |
 
 ---
 
