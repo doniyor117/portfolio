@@ -1,12 +1,13 @@
 # Portfolio
 
-Data analysis projects. Each one links to its own repo with the full notebook and write-up.
+Data analysis projects. Each one links to its own repo with the full analysis and write-up.
 
 ## Table of Contents
 
 - [SQL](#sql)
 - [Python](#python)
 - [Power BI](#power-bi)
+- [Excel](#excel)
 - [Learning](#learning)
 - [About](#about)
 
@@ -33,6 +34,14 @@ Data analysis projects. Each one links to its own repo with the full notebook an
 | Project | Question | Key finding | Tools |
 | --- | --- | --- | --- |
 | [DataCo Supply Chain Profitability](https://github.com/doniyor117/dataco-supply-chain-analysis) | Which markets, categories, and shipping modes actually drive profit, not just revenue? | Faster shipping modes have worse late-delivery rates, not better ones: First Class averages 2.00 days but is late 95% of the time, against Standard Class at 4.00 days and 38% late. The promised window, not the shipping speed, is what's driving lateness. | Power BI, Power Query, DAX |
+
+---
+
+## Excel
+
+| Project | Question | Key finding | Tools |
+| --- | --- | --- | --- |
+| [BYD Financial Ratio Analysis](https://github.com/doniyor117/byd-financial-analysis) | BYD grew revenue 29% in 2024. Did the growth come with financial strain? | Profitability, liquidity and solvency all improved. Efficiency is the only mixed category, and the cause is expansion, not weakness: inventory grew 32% against 29% revenue growth while four brands launched models and new plants opened. Growth was funded by equity and supplier credit rather than debt, with short-term borrowings down from 18.3B to 12.1B RMB and debt-to-equity falling from 3.52 to 2.94. | Excel, financial statement analysis |
 
 ---
 
