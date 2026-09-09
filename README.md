@@ -1,6 +1,8 @@
 # Portfolio
 
-Data analysis projects. Each one links to its own repo with the full analysis and write-up.
+# Portfolio
+
+End-to-end analysis projects in SQL, Python, Power BI and Excel. Each starts from a business question and wraps up with findings and recommendations. Grouped by tool below, and each row links to the full write-up.
 
 ## Table of Contents
 
