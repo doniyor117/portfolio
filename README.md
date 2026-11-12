@@ -17,7 +17,7 @@ End-to-end analysis projects in SQL, Python, Power BI and Excel. Each starts fro
 
 | Project | Question | Key finding | Tools |
 | --- | --- | --- | --- |
-| [Olist Seller Quality](https://github.com/doniyor117/olist-marketplace-analysis/tree/main/02-seller-quality) | What should Olist do with underperforming sellers: coach, warn, or drop? | Sellers who miss shipping deadlines a third of the time average a 3.86 review score against 4.30 for on-time sellers. But the worst-scoring "remove" tier is only 5.6% of sellers and 5.7% of 1-star reviews, so cutting them would barely move the marketplace's rating. Coaching the much larger "watch" tier (33% of orders, 41% of 1-star reviews) is where the real gain is. | SQL, DuckDB, JupySQL, pandas, matplotlib |
+| [Olist Seller Quality](https://github.com/doniyor117/olist-marketplace-analysis/tree/main#02---seller-quality) | What should Olist do with underperforming sellers: coach, warn, or drop? | Sellers who miss shipping deadlines a third of the time average a 3.86 review score against 4.30 for on-time sellers. But the worst-scoring "remove" tier is only 5.6% of sellers and 5.7% of 1-star reviews, so cutting them would barely move the marketplace's rating. Coaching the much larger "watch" tier (33% of orders, 41% of 1-star reviews) is where the real gain is. | SQL, DuckDB, JupySQL, pandas, matplotlib |
 
 ---
 
@@ -25,7 +25,7 @@ End-to-end analysis projects in SQL, Python, Power BI and Excel. Each starts fro
 
 | Project | Question | Key finding | Tools |
 | --- | --- | --- | --- |
-| [Olist Delivery Promise Optimization](https://github.com/doniyor117/olist-marketplace-analysis/tree/main/01-delivery-estimates) | Should Olist shorten the delivery date it shows at checkout? | Promises run 12 days ahead of actual delivery, yet 7.6% still arrive late. A quantile model cuts ~3 days off the promise while lowering the late rate to 3.44%, against Olist's own 4.5% on the test dataset. | Python, pandas, LightGBM, Optuna |
+| [Olist Delivery Promise Optimization](https://github.com/doniyor117/olist-marketplace-analysis/tree/main#01---delivery-promise-optimization) | Should Olist shorten the delivery date it shows at checkout? | Promises run 12 days ahead of actual delivery, yet 7.6% still arrive late. A quantile model cuts ~3 days off the promise while lowering the late rate to 3.44%, against Olist's own 4.5% on the test dataset. | Python, pandas, LightGBM, Optuna |
 
 ---
 
