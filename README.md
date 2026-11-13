@@ -1,6 +1,6 @@
 # Portfolio
 
-End-to-end analysis projects in SQL, Python, Power BI and Excel. Each starts from a business question and wraps up with findings and recommendations. Grouped by tool below, and each row links to the full write-up.
+Data and financial analysis projects covering e-commerce, logistics and company financial performance. Each project includes the business question, analysis and findings.
 
 ## Table of Contents
 
